@@ -7,6 +7,21 @@
   color: #487996;
 }
 
+.video-wrapper {
+  position: relative;
+  display: inline-block;
+}
+// .video-overlay {
+//   position: absolute;
+//   left: 0;
+//   top: 0;
+//   right: 0;
+//   bottom: 0;
+//   background-image: url('https://bipbap.ru/wp-content/uploads/2017/04/000f_7290754.jpg');
+//   background-size: cover;
+//   border-radius: 15px;
+// }
+
 .contacts-hero_picture {
   margin-bottom: 16px;
 }
@@ -16,6 +31,7 @@
 }
 
 .contacts-hero__par {
+  font-family: 'Cera Pro';
   margin-bottom: 16px;
   font-weight: 400;
   font-size: 16px;
