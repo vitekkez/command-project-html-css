@@ -1,3 +1,33 @@
+.contacts-hero__header {
+  margin-bottom: 16px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #487996;
+}
+
+.contacts-hero_picture {
+  margin-bottom: 16px;
+}
+
 .contacts-hero__text {
-  color: green;
+  margin-bottom: 40px;
+}
+
+.contacts-hero__par {
+  margin-bottom: 16px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+
+  color: #2b2b2b;
+}
+
+.contacts-hero__span {
+  font-size: 22px;
+}
+iframe {
+  border-radius: 5px;
+  margin-bottom: 16px;
 }
